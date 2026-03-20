@@ -1,2 +1,3 @@
-# rapid-smart-home-yly7
-A smart home automation platform for modern development workflows
+# Rapid Smart Home Yly7
+
+A smart home automation platform for modern development workflows.
